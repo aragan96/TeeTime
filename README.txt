@@ -1,5 +1,7 @@
 Welcome to Tee Time!
 
+This application requires an Android device and the Google Cardboard.
+
 SETUP:
 
 Download the APK onto your Android device. Install the APK using any APK installer.
